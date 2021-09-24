@@ -1,0 +1,1 @@
+(self.webpackChunkdevportal=self.webpackChunkdevportal||[]).push([[9758],{6462:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/hardware","name":"hardware","count":1,"permalink":"/blog/tags/hardware"}')}}]);

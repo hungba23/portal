@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://developers.cardano.org/blog</id>
+    <title>Cardano Developer Portal Blog</title>
+    <updated>2021-09-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://developers.cardano.org/blog"/>
+    <subtitle>Cardano Developer Portal Blog</subtitle>
+    <icon>https://developers.cardano.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[September Spotlight Interview]]></title>
+        <id>2021-09-20-september</id>
+        <link href="https://developers.cardano.org/blog/2021-09-20-september"/>
+        <updated>2021-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[September Spotlight Interview]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August Spotlight Interview]]></title>
+        <id>2021-08-23-august</id>
+        <link href="https://developers.cardano.org/blog/2021-08-23-august"/>
+        <updated>2021-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[August Spotlight Interview]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we minted the NFTAs, and why we went for this standard]]></title>
+        <id>nft-minting-standard</id>
+        <link href="https://developers.cardano.org/blog/nft-minting-standard"/>
+        <updated>2021-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How we minted the NFTAs, and why we went for this standard.]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July Spotlight Interview]]></title>
+        <id>2021-07-26-july</id>
+        <link href="https://developers.cardano.org/blog/2021-07-26-july"/>
+        <updated>2021-07-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[July Spotlight Interview]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally here: the Cardano developer portal]]></title>
+        <id>launch-of-the-developer-portal-2021</id>
+        <link href="https://developers.cardano.org/blog/launch-of-the-developer-portal-2021"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finally here: the Cardano developer portal! Accepting all builds.]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March Spotlight 2021]]></title>
+        <id>march-spotlight-2021</id>
+        <link href="https://developers.cardano.org/blog/march-spotlight-2021"/>
+        <updated>2021-03-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardano Developer Spotlight March 2021]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[February Spotlight 2021]]></title>
+        <id>february-spotlight-2021</id>
+        <link href="https://developers.cardano.org/blog/february-spotlight-2021"/>
+        <updated>2021-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardano Developer Spotlight February 2021]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January Spotlight 2021]]></title>
+        <id>january-spotlight-2021</id>
+        <link href="https://developers.cardano.org/blog/january-spotlight-2021"/>
+        <updated>2021-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardano Developer Spotlight January 2021]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November Spotlight 2020]]></title>
+        <id>november-spotlight-2020</id>
+        <link href="https://developers.cardano.org/blog/november-spotlight-2020"/>
+        <updated>2020-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cardano Developer Spotlight March 2021]]></summary>
+        <author>
+            <name>Cardano Foundation</name>
+            <uri>https://github.com/cardano-foundation</uri>
+        </author>
+    </entry>
+</feed>

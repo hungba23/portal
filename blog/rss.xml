@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cardano Developer Portal Blog</title>
+        <link>https://developers.cardano.org/blog</link>
+        <description>Cardano Developer Portal Blog</description>
+        <lastBuildDate>Mon, 20 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[September Spotlight Interview]]></title>
+            <link>https://developers.cardano.org/blog/2021-09-20-september</link>
+            <guid>2021-09-20-september</guid>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[September Spotlight Interview]]></description>
+        </item>
+        <item>
+            <title><![CDATA[August Spotlight Interview]]></title>
+            <link>https://developers.cardano.org/blog/2021-08-23-august</link>
+            <guid>2021-08-23-august</guid>
+            <pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[August Spotlight Interview]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How we minted the NFTAs, and why we went for this standard]]></title>
+            <link>https://developers.cardano.org/blog/nft-minting-standard</link>
+            <guid>nft-minting-standard</guid>
+            <pubDate>Mon, 09 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How we minted the NFTAs, and why we went for this standard.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[July Spotlight Interview]]></title>
+            <link>https://developers.cardano.org/blog/2021-07-26-july</link>
+            <guid>2021-07-26-july</guid>
+            <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[July Spotlight Interview]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Finally here: the Cardano developer portal]]></title>
+            <link>https://developers.cardano.org/blog/launch-of-the-developer-portal-2021</link>
+            <guid>launch-of-the-developer-portal-2021</guid>
+            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Finally here: the Cardano developer portal! Accepting all builds.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[March Spotlight 2021]]></title>
+            <link>https://developers.cardano.org/blog/march-spotlight-2021</link>
+            <guid>march-spotlight-2021</guid>
+            <pubDate>Fri, 26 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cardano Developer Spotlight March 2021]]></description>
+        </item>
+        <item>
+            <title><![CDATA[February Spotlight 2021]]></title>
+            <link>https://developers.cardano.org/blog/february-spotlight-2021</link>
+            <guid>february-spotlight-2021</guid>
+            <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cardano Developer Spotlight February 2021]]></description>
+        </item>
+        <item>
+            <title><![CDATA[January Spotlight 2021]]></title>
+            <link>https://developers.cardano.org/blog/january-spotlight-2021</link>
+            <guid>january-spotlight-2021</guid>
+            <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cardano Developer Spotlight January 2021]]></description>
+        </item>
+        <item>
+            <title><![CDATA[November Spotlight 2020]]></title>
+            <link>https://developers.cardano.org/blog/november-spotlight-2020</link>
+            <guid>november-spotlight-2020</guid>
+            <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cardano Developer Spotlight March 2021]]></description>
+        </item>
+    </channel>
+</rss>

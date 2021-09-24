@@ -1,0 +1,1 @@
+(self.webpackChunkdevportal=self.webpackChunkdevportal||[]).push([[7714],{577:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/educational","name":"educational","count":2,"permalink":"/blog/tags/educational"}')}}]);

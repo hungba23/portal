@@ -1,0 +1,1 @@
+(self.webpackChunkdevportal=self.webpackChunkdevportal||[]).push([[9527],{2144:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/nfta","name":"nfta","count":2,"permalink":"/blog/tags/nfta"}')}}]);
